@@ -1,4 +1,4 @@
-## *Seja Bem Vindo* 👋
+## *Seja Bem Vindo 👋*
 
 <table width="80%">
     <tr>
@@ -32,13 +32,46 @@
   </td>
   </tr>
   </table>
-  
-## *Contatos*:
+
+## *🤖 Tecnologias:*
+
+<img 
+    align="left" 
+    alt="Angular"
+    title="Angular" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Ts"
+    title="Ts"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+          
+
+<br/>
+
+## *Contatos:*
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-mariano-a726b6200/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcianocruzeiri@gmail.com)	
 
-  <!--#####  Estatisticas #####-->
+  <!-- ## Estatisticas -->
 <!--![Júlio Mariano GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianoJuly&show_icons=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianoJuly&layout=compact)-->
 
